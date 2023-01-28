@@ -1,5 +1,7 @@
 基于java swing和sqlite的简单图书管理系统
 
+java版本为jdk17
+
 是java课的大作业
 
 实现了管理员端和学生端
@@ -11,3 +13,5 @@
 有登陆和注册界面
 
 root管理员id:001,密码:12345
+
+运行main.java或bigtask.jar可执行
